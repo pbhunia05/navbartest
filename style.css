@@ -84,6 +84,7 @@ background-color: #fff;
     height: 15px!important;
     background-color: rgb(5, 90, 218)!important;
 }
-/* .carousel-item{
-    height: 380px!important;
-} */
+.cara-img {
+ height:390px;
+ width: 100%;
+}
