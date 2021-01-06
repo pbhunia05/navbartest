@@ -1,0 +1,89 @@
+#wrapper {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.sec1{
+background-color: #fff;
+}
+.pull-left {
+  padding-top: 1.3rem !important;
+  font-size: 1rem;
+
+}
+.pull-right {
+  float: right !important;
+  padding-top: 2rem !important;
+  color: rgb(116, 112, 112);
+  font-family: 'East Sea Dokdo', cursive;
+  font-size: larger;
+}
+
+
+.navbar-brand{
+    padding-right: 38rem;
+}
+.navbar{
+    
+    padding-bottom: 0px!important;
+    padding-top: 0px!important;
+    height: 55px!important;
+
+}
+
+.home{
+    background-color:rgb(19, 139, 194);
+    font-weight: bold;
+    color: #fff!important;
+   
+    height: 55px;
+    text-align: center;
+    padding-top: 16px!important;
+}
+.home2{
+    font-weight: bold;
+    color: rgb(121, 117, 113)!important;
+    padding-left: 1rem!important;
+    height: 55px; 
+    
+    text-align: center;
+    padding-top: 16px!important;
+    transition: 0.4s;
+}
+.home2:hover{
+    color: white!important;
+}
+/* dropdown menu */
+.dropdown-menu{
+    background-color: transparent!important;
+}
+.dropdown-menu.show{
+    padding: 0;
+}
+.dropdown-item{
+    color: white!important;
+    margin: 0!important;
+}
+.dropdown-item:hover{
+    background-color: rgb(5, 15, 58)!important;
+    font-weight: bold;
+}
+
+/* slider section  */
+
+.carousel-control-prev-icon{
+    background-image: none!important;
+}
+.carousel-control-next-icon{
+    background-image: none!important;
+}
+.carousel-indicators li{
+    border-radius: 50%;
+    width: 15px!important;
+    height: 15px!important;
+    background-color: rgb(5, 90, 218)!important;
+}
+.carousel-item{
+    height: 380px!important;
+}
